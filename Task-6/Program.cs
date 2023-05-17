@@ -30,5 +30,5 @@ void CatalogInfo(string path, string indent = "")
     }
 }
 
-string path = @"/Games/minetest-5.4.1-win64/minetest-5.4.1-win64";
+string path = @"/Games/minetest-5.4.1-win64/minetest-5.4.1-win64/textures/base";
 CatalogInfo(path);
